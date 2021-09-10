@@ -15,11 +15,7 @@ Budget Tracker application allows for offline access and functionality. The user
 
 ## Visuals 
 
-![demo](./Assets/homepage.png) 
-
-![demo](./Assets/typing.png) 
-
-![demo](./Assets/saved.png) 
+![demo](./images/budgetTrackers.png) 
 
 ## Installation 
 
